@@ -414,6 +414,7 @@ section {
 
 .stat-label {
     font-size: 15px;
+    color: white !important;
     opacity: 0.9;
     position: relative;
     z-index: 2;
